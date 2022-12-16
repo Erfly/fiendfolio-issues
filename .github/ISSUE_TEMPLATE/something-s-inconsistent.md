@@ -1,6 +1,6 @@
 ---
 name: Something's inconsistent
-about: Create a report to help us improve
+about: Something is acting unexpectedly
 title: ''
 labels: Inconsistency
 assignees: ''
