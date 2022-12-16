@@ -1,8 +1,8 @@
 ---
-name: Design issue / Oversight
+name: Weird Design / Oversight
 about: Things working as intended that seem wrong
 title: ''
-labels: ''
+labels: bad mod
 assignees: ''
 
 ---

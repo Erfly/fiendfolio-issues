@@ -1,5 +1,5 @@
 ---
-name: Something's inconsistent
+name: Inconsistent Functionality
 about: Something is acting unexpectedly
 title: ''
 labels: Inconsistency
