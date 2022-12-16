@@ -1,6 +1,7 @@
 ---
 name: Mod Compatibility Issue
-about: Create a report to help us improve compatibility
+about: Something doesn't work as expected with other mods (eg. Revelations, Retribution,
+  etc.)
 title: ''
 labels: other mods
 assignees: ''
