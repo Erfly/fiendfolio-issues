@@ -1,8 +1,8 @@
 ---
-name: Bug report
-about: Something's going wrong
+name: Crash report
+about: A nasty bug that crashes the game
 title: ''
-labels: bug
+labels: bug, crash
 assignees: ''
 
 ---
@@ -16,9 +16,6 @@ Steps to reproduce the behavior:
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
