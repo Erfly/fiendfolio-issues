@@ -1,6 +1,7 @@
 ---
 name: Inconsistent Functionality
-about: Something is acting unexpectedly
+about: Something is acting unexpectedly (eg. an item spawns a pickup not unlocked
+  yet)
 title: ''
 labels: Inconsistency
 assignees: ''
